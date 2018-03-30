@@ -1,0 +1,16 @@
+PODS:
+  - Observable-Swift4 (0.1.0)
+
+DEPENDENCIES:
+  - Observable-Swift4 (from `../`)
+
+EXTERNAL SOURCES:
+  Observable-Swift4:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Observable-Swift4: 5992d7662eea95405fb2d1747064b8dcd800f0d9
+
+PODFILE CHECKSUM: 63f1ed20fe39460965d6b3744ced0016370de9b6
+
+COCOAPODS: 1.4.0

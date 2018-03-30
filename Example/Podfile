@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Observable-Swift4_Example' do
+  pod 'Observable-Swift4', :path => '../'
+
+  target 'Observable-Swift4_Tests' do
+    inherit! :search_paths
+    pod 'Observable-Swift4', :path => '../'
+    
+  end
+end

@@ -1,0 +1,23 @@
+{
+  "name": "Observable-Swift4",
+  "module_name": "Observable",
+  "version": "0.1.0",
+  "summary": "A short description of Observable-Swift4.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dulingkang@163.com/Observable-Swift4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dulingkang@163.com": "dulingkang@163.com"
+  },
+  "source": {
+    "git": "https://github.com/dulingkang@163.com/Observable-Swift4.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Observable-Swift4/**/*"
+}
