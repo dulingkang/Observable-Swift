@@ -9,8 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = 'Observable-Swift4'
   s.module_name = 'Observable'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of Observable-Swift4.'
+  s.version          = '0.7.1'
+  s.summary          = 'A short description of Observable-Swift4. Before change, after change.'
+  s.swift_version = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,14 +20,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Observable, afterchange, before change. Forked from https://github.com/slazyk/Observable-Swift.
                        DESC
 
-  s.homepage         = 'https://github.com/dulingkang@163.com/Observable-Swift4'
+  s.homepage         = 'https://github.com/dulingkang/Observable-Swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dulingkang@163.com' => 'dulingkang@163.com' }
-  s.source           = { :git => 'https://github.com/dulingkang@163.com/Observable-Swift4.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dulingkang/Observable-Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -46,7 +46,7 @@
 		B14912AC8A81E50B462BAFFD /* Pods_Observable_Swift4_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Observable_Swift4_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC0B65BDB365681645A91F8B /* Pods-Observable-Swift4_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Observable-Swift4_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Observable-Swift4_Example/Pods-Observable-Swift4_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D01F39292DB727E01CBEFBCC /* Pods-Observable-Swift4_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Observable-Swift4_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Observable-Swift4_Tests/Pods-Observable-Swift4_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D8EF9E3346001B2A468FE153 /* Observable-Swift4.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "Observable-Swift4.podspec"; path = "../Observable-Swift4.podspec"; sourceTree = "<group>"; };
+		D8EF9E3346001B2A468FE153 /* Observable-Swift4.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "Observable-Swift4.podspec"; path = "../Observable-Swift4.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
